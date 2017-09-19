@@ -2,7 +2,7 @@
 //  WunderWeatheriOSTests.swift
 //  WunderWeatheriOSTests
 //
-//  Created by Nikhil Tanappagol on 9/18/17.
+//  Created by Nikhil Patil on 9/18/17.
 //  Copyright © 2017 Nikhil Patil. All rights reserved.
 //
 

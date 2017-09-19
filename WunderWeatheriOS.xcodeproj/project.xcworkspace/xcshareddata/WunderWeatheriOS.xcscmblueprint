@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0555E4CDBD8BF17C3AD131A13F6931586898BD18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0555E4CDBD8BF17C3AD131A13F6931586898BD18" : 9223372036854775807,
+    "C81AC046AEC7E1FEB03613A4DC40E68334289959" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3A7CB9EC-B2A2-4978-B78F-35030810BB6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0555E4CDBD8BF17C3AD131A13F6931586898BD18" : "WunderWeatheriOS%202\/",
+    "C81AC046AEC7E1FEB03613A4DC40E68334289959" : "WunderWeatheriOS%202\/WunderWeatheriOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WunderWeatheriOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WunderWeatheriOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com:NikhilNt\/WunderWeatheriOS-2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0555E4CDBD8BF17C3AD131A13F6931586898BD18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com:NikhilNt\/WunderWeatheriOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C81AC046AEC7E1FEB03613A4DC40E68334289959"
+    }
+  ]
+}
